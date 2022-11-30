@@ -1,5 +1,5 @@
 <?php 
-namespace Logxstar\Integration\Setup;
+namespace Logxstarnl\Integration\Setup;
 
 use Magento\Framework\Setup\UpgradeSchemaInterface;
 use Magento\Framework\Setup\ModuleContextInterface;

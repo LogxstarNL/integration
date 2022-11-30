@@ -1,5 +1,5 @@
 <?php
-namespace Logxstar\Integration\Controller\Adminhtml\Sales\Order;
+namespace Logxstarnl\Integration\Controller\Adminhtml\Sales\Order;
 
 use Magento\Backend\App\Action;
 use Magento\Sales\Api\OrderManagementInterface;

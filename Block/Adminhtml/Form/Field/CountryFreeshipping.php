@@ -3,7 +3,7 @@
  * Copyright © 2016 Magento. All rights reserved.
  * See COPYING.txt for license details.
  */
-namespace Logxstar\Integration\Block\Adminhtml\Form\Field;
+namespace Logxstarnl\Integration\Block\Adminhtml\Form\Field;
 
 use Magento\Framework\DataObject;
 use Magento\Config\Block\System\Config\Form\Field\FieldArray\AbstractFieldArray;

@@ -1,5 +1,5 @@
 <?php
-namespace Logxstar\Integration\Plugin;
+namespace Logxstarnl\Integration\Plugin;
 
 class PluginBeforeOrderView
 {

@@ -1,5 +1,5 @@
 <?php
-namespace Logxstar\Integration\Block\Adminhtml\Form\Field;
+namespace Logxstarnl\Integration\Block\Adminhtml\Form\Field;
 
 class UseWeightRadio implements \Magento\Framework\Option\ArrayInterface {
 

@@ -1,5 +1,5 @@
 <?php
-namespace Logxstar\Integration\Helper;
+namespace Logxstarnl\Integration\Helper;
 
 use Magento\Framework\App\Helper\Context;
 use Magento\Framework\App\Config\Storage\WriterInterface;

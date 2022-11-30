@@ -3,7 +3,7 @@
  * Copyright © 2016 Magento. All rights reserved.
  * See COPYING.txt for license details.
  */
-namespace Logxstar\Integration\Model\Adminhtml\System\Config;
+namespace Logxstarnl\Integration\Model\Adminhtml\System\Config;
 
 use Magento\Framework\App\Cache\TypeListInterface;
 use Magento\Framework\App\Config\ScopeConfigInterface;

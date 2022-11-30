@@ -1,5 +1,5 @@
 <?php
-namespace Logxstar\Integration\Block;
+namespace Logxstarnl\Integration\Block;
 class Pickup extends \Magento\Checkout\Block\Onepage
 {
     public function getWeekDays() {

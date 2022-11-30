@@ -1,5 +1,5 @@
 <?php
-namespace Logxstar\Integration\Controller\Pickup;
+namespace Logxstarnl\Integration\Controller\Pickup;
 class Index extends \Magento\Framework\App\Action\Action
 {
     protected $helper = null;

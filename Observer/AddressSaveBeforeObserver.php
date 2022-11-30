@@ -3,7 +3,7 @@
  * Copyright © 2015 Magento. All rights reserved.
  * See COPYING.txt for license details.
  */
-namespace Logxstar\Integration\Observer;
+namespace Logxstarnl\Integration\Observer;
 
 use Magento\Framework\Event\ObserverInterface;
 

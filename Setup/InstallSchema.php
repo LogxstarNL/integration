@@ -4,7 +4,7 @@
  * See COPYING.txt for license details.
  */
 
-namespace Logxstar\Integration\Setup;
+namespace Logxstarnl\Integration\Setup;
 
 use Magento\Framework\Setup\InstallSchemaInterface;
 use Magento\Framework\Setup\ModuleContextInterface;

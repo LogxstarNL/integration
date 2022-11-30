@@ -1,6 +1,6 @@
 <?php
 
-namespace Logxstar\Integration\Model\Carrier;
+namespace Logxstarnl\Integration\Model\Carrier;
 
 use Magento\Quote\Model\Quote\Address\RateRequest;
 use Magento\Framework\Xml\Security;

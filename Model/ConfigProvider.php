@@ -3,7 +3,7 @@
  * Copyright © 2015 Magento. All rights reserved.
  * See COPYING.txt for license details.
  */
-namespace Logxstar\Integration\Model;
+namespace Logxstarnl\Integration\Model;
 
 use Magento\Checkout\Model\ConfigProviderInterface;
 use Magento\Framework\App\RequestInterface;
